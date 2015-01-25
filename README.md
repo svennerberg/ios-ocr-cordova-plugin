@@ -1,4 +1,4 @@
 ios-ocr-cordova-plugin
 ======================
 
-Clone of https://github.com/jcesarmobile/PhonegapOCRPlugin.git to work on Cordova 3.0
+Fork of https://github.com/albertarvesu/ios-ocr-cordova-plugin.git to work in Appgyver Steroids
